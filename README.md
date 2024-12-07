@@ -63,7 +63,8 @@ The following are the reference materials for further study.
 
 ## Advanced CUDA
 
-- PTX (Parallel Thread Execution) and SASS (Streaming Assembly)
+- Fat Binary & PTX (Parallel Thread Execution) & SASS (Streaming Assembly)
+  - [[Blog] CUDA Pro Tip: Understand Fat Binaries and JIT Caching](https://developer.nvidia.com/blog/cuda-pro-tip-understand-fat-binaries-jit-caching/)
   - [PTX and SASS Assembly Debugging](https://docs.nvidia.com/nsight-visual-studio-edition/cuda-advanced-topics/index.html#ptx-and-sass-assembly-debugging)
   - [CUDA Binary Utilities](https://docs.nvidia.com/cuda/cuda-binary-utilities/index.html)
 - Cooperative Groups (CG)
