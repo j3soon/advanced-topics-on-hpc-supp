@@ -4,6 +4,9 @@ This repo contains supplementary materials for the talk "Advanced Topics on High
 
 1. Slides [[here](https://drive.google.com/file/d/1Y1Z59Io6bn8NxiwnGYqwLMt0tYDl9qol/view?usp=sharing)]
 2. Hands-on: Nsight Guided Profiling [[here](https://github.com/j3soon/hpc-samples/blob/main/nsight-guided-profiling.md)]
+   - Install [Nsight Systems](https://developer.nvidia.com/nsight-systems/get-started)
+   - Install [Nsight Compute](https://developer.nvidia.com/tools-overview/nsight-compute/get-started)
+   - Download sample [profile reports](https://github.com/j3soon/hpc-samples/releases)
 3. Post-talk Survey [[here](https://forms.gle/mdfSg4CbNTFjQb1e9)]
 
 ## Introduction
