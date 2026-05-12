@@ -1,15 +1,16 @@
 # Advanced Topics on HPC, Supplementary Materials
 
-This repo contains supplementary materials for the talk "Inside Modern GPUs: Emerging Trends, CUDA Optimization, and Profiling in Practice".
+This repo contains supplementary materials for the talk "Advanced Topics on High Performance Computing (HPC)".
 
-1. Slides [[here](https://drive.google.com/file/d/1YDa8GP21mBCRQk7o8_SI_Va7z5UW6Jbr/view?usp=drive_link)]
-   - Old version (2025/12/08) [[here](https://drive.google.com/file/d/1mvr1AhyRmU6OVSrWiuR7nKbfSuEa2nM6/view?usp=sharing)]
-   - Old version (2025/11/14) [[here](https://drive.google.com/file/d/1Y1Z59Io6bn8NxiwnGYqwLMt0tYDl9qol/view?usp=sharing)]
+1. Slides [[here](https://drive.google.com/file/d/18f8F9xzVRDdIffeQ_O3VOL46aBPvAJdp/view?usp=sharing)]  
+   If you have trouble accessing the slides, please select the previous version you attended [here](previous.md).
 2. Hands-on: Nsight Guided Profiling [[here](https://github.com/j3soon/hpc-samples/blob/main/nsight-guided-profiling.md)]
    - Install [Nsight Systems](https://developer.nvidia.com/nsight-systems/get-started)
    - Install [Nsight Compute](https://developer.nvidia.com/tools-overview/nsight-compute/get-started)
    - Download sample [profile reports](https://github.com/j3soon/hpc-samples/releases)
-3. Post-talk Survey [[here](https://forms.gle/UvJgqGmUDMVBxGSr5)]
+     - [`reduce_sum_L40_results.zip`](https://github.com/j3soon/hpc-samples/releases/download/20251114/reduce_sum_L40_results.zip)
+     - [`resnet_inference_L40_results.zip `](https://github.com/j3soon/hpc-samples/releases/download/20260512/resnet_inference_L40_results.zip)
+3. Post-talk Survey [[here](https://forms.gle/61xQW8gjQrEob1Uq8)]
 4. Opencode with Free Nemotron 3 Super Setup [[here](https://github.com/j3soon/opencode-nemotron-free)]
 
 ## Abstract of the Talk
