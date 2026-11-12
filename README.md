@@ -2,7 +2,7 @@
 
 This repo contains supplementary materials for the talk "Advanced Topics on High Performance Computing (HPC)".
 
-1. Slides [[here](https://drive.google.com/file/d/18f8F9xzVRDdIffeQ_O3VOL46aBPvAJdp/view?usp=sharing)]  
+1. Slides [[here](https://drive.google.com/file/d/1yUSbb5KY_4mYuQMFtcgldN8PNC9Y4ES5/view?usp=sharing)]  
    If you have trouble accessing the slides, please select the previous version you attended [here](previous.md).
 2. Hands-on: Nsight Guided Profiling [[here](https://github.com/j3soon/hpc-samples/blob/main/nsight-guided-profiling.md)]
    - Install [Nsight Systems](https://developer.nvidia.com/nsight-systems/get-started)
@@ -10,8 +10,7 @@ This repo contains supplementary materials for the talk "Advanced Topics on High
    - Download sample [profile reports](https://github.com/j3soon/hpc-samples/releases)
      - [`reduce_sum_L40_results.zip`](https://github.com/j3soon/hpc-samples/releases/download/20251114/reduce_sum_L40_results.zip)
      - [`resnet_inference_L40_results.zip `](https://github.com/j3soon/hpc-samples/releases/download/20260512/resnet_inference_L40_results.zip)
-3. Post-talk Survey [[here](https://forms.gle/61xQW8gjQrEob1Uq8)]
-4. Opencode with Free Nemotron 3 Super Setup [[here](https://github.com/j3soon/opencode-nemotron-free)]
+3. Post-talk Survey [[here](https://forms.gle/fHwwmEfhCM1iitEaA)]
 
 ## Abstract of the Talk
 
